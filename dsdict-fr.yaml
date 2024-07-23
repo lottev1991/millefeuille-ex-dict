@@ -1,6 +1,6 @@
 symbols:
-- {symbol: AP, type: stop}
-- {symbol: SP, type: stop}
+- {symbol: AP, type: vowel}
+- {symbol: SP, type: vowel}
 - {symbol: ah, type: vowel}
 - {symbol: eh, type: vowel}
 - {symbol: ae, type: vowel}
