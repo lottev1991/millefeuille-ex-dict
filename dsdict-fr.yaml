@@ -54931,6 +54931,7 @@ entries:
 - {grapheme: vigoureuses(4), phonemes: [v, ih, g, ou, r, ee, z, z]}
 - {grapheme: vigoureux(2), phonemes: [v, ih, g, ou, r, ee, z]}
 - {grapheme: vigouroux, phonemes: [v, ih, g, ou, r, ou]}
+- {grapheme: vigouroux(2), phonemes: [v, ih, g, ou, r, ou, z]}
 - {grapheme: viguier, phonemes: [v, ih, g, y, eh]}
 - {grapheme: vikings(2), phonemes: [v, ih, k, ih, ng, z]}
 - {grapheme: vikings(3), phonemes: [v, ih, k, ih, ng]}
@@ -54940,7 +54941,7 @@ entries:
 - {grapheme: vilains(2), phonemes: [v, ih, l, in, z]}
 - {grapheme: vilar, phonemes: [v, ih, l, ah, r]}
 - {grapheme: vilayets, phonemes: [v, ih, l, ae, y, ae]}
-- {grapheme: vilbenoît, phonemes: [v, ih, l, b, eh, n, oh, ih, t]}
+- {grapheme: vilbenoît, phonemes: [v, ih, l, b, ee, n, w, ah]}
 - {grapheme: vile(2), phonemes: [v, ih, l, ee]}
 - {grapheme: village(2), phonemes: [v, ih, l, ah, j, ee]}
 - {grapheme: village(3), phonemes: [v, ih, y, ah, j]}
