@@ -7198,7 +7198,6 @@ entries:
 - {grapheme: bridges(3), phonemes: [b, r, ih, d, j, ee, z]}
 - {grapheme: bridges(4), phonemes: [b, r, ih, d, j, z]}
 - {grapheme: bridgewater, phonemes: [b, r, ih, d, j, eh, w, ah, t, ae, r]}
-- {grapheme: briefings, phonemes: [b, r, ih, f, ih, ng]}
 - {grapheme: briefings(2), phonemes: [b, r, ih, f, ih, ng, z]}
 - {grapheme: brièvement, phonemes: [b, r, ih, y, ae, v, ee, m, en]}
 - {grapheme: brièvement(2), phonemes: [b, r, ih, y, ae, v, ee, m, en, t]}
@@ -7474,7 +7473,6 @@ entries:
 - {grapheme: buffles(3), phonemes: [b, uh, f, l, ee, z]}
 - {grapheme: buffles(4), phonemes: [b, uh, f, l, z]}
 - {grapheme: buget, phonemes: [b, uh, j, ae]}
-- {grapheme: buildings, phonemes: [b, ih, l, d, ih, ng]}
 - {grapheme: buildings(2), phonemes: [b, ih, l, d, ih, ng, z]}
 - {grapheme: buis(2), phonemes: [b, uy, ih, z]}
 - {grapheme: buissonnière(2), phonemes: [b, uy, ih, s, oo, n, y, ae, r, ee]}
@@ -7904,7 +7902,6 @@ entries:
 - {grapheme: campent, phonemes: [k, en, p, ee]}
 - {grapheme: camper(2), phonemes: [k, en, p, eh, r]}
 - {grapheme: campeurs(2), phonemes: [k, en, p, oe, r, z]}
-- {grapheme: campings, phonemes: [k, en, p, ih, ng]}
 - {grapheme: campings(2), phonemes: [k, en, p, ih, ng, z]}
 - {grapheme: campos, phonemes: [k, en, p, oo, s]}
 - {grapheme: camps(2), phonemes: [k, en, z]}
@@ -29895,7 +29892,6 @@ entries:
 - {grapheme: kidnappées(2), phonemes: [k, ih, d, n, ah, p, eh, z]}
 - {grapheme: kidnapper(2), phonemes: [k, ih, d, n, ah, p, eh, r]}
 - {grapheme: kidnappés(2), phonemes: [k, ih, d, n, ah, p, eh, z]}
-- {grapheme: kidnappings, phonemes: [k, ih, d, n, ah, p, ih, ng]}
 - {grapheme: kidnappings(2), phonemes: [k, ih, d, n, ah, p, ih, ng, z]}
 - {grapheme: kids, phonemes: [k, ih, d]}
 - {grapheme: kids(2), phonemes: [k, ih, d, z]}
@@ -30658,7 +30654,6 @@ entries:
 - {grapheme: lemaresquier, phonemes: [l, ee, m, ah, r, ae, s, k, y, eh]}
 - {grapheme: lemercier, phonemes: [l, ee, m, ae, r, s, y, eh]}
 - {grapheme: lemétayer, phonemes: [l, ee, m, eh, t, ah, y, eh]}
-- {grapheme: lemmings, phonemes: [l, ae, m, ih, ng]}
 - {grapheme: lemmings(2), phonemes: [l, ae, m, ih, ng, z]}
 - {grapheme: lemoine(2), phonemes: [l, ee, m, w, ah, n, ee]}
 - {grapheme: lemoine(3), phonemes: [l, m, w, ah, n]}
@@ -33022,7 +33017,6 @@ entries:
 - {grapheme: méduses(3), phonemes: [m, ae, d, uh, z, ee, z]}
 - {grapheme: méduses(4), phonemes: [m, ae, d, uh, z, z]}
 - {grapheme: meeting(2), phonemes: [m, ih, t, ih, ng]}
-- {grapheme: meetings, phonemes: [m, ih, t, ih, ng]}
 - {grapheme: meetings(2), phonemes: [m, ih, t, ih, ng, z]}
 - {grapheme: méfaits, phonemes: [m, ae, f, ae]}
 - {grapheme: méfaits(2), phonemes: [m, ae, f, ae, z]}
@@ -33145,7 +33139,6 @@ entries:
 - {grapheme: melons(2), phonemes: [m, ee, l, on, z]}
 - {grapheme: mélopées, phonemes: [m, ae, l, oo, p, eh]}
 - {grapheme: mélopées(2), phonemes: [m, ae, l, oo, p, eh, z]}
-- {grapheme: melting-pot, phonemes: [m, ae, l, t, ih, ng, p, oo, t]}
 - {grapheme: melun(2), phonemes: [m, l, in]}
 - {grapheme: melville(2), phonemes: [m, ae, l, v, ih, l, ee]}
 - {grapheme: melz, phonemes: [m, ae, l, s]}
@@ -37799,7 +37792,6 @@ entries:
 - {grapheme: parjure(2), phonemes: [p, ah, r, j, uh, r, ee]}
 - {grapheme: park(2), phonemes: [p, ah, r, k, ee]}
 - {grapheme: parker, phonemes: [p, ah, r, k, ae, r]}
-- {grapheme: parkings, phonemes: [p, ah, r, k, ih, ng]}
 - {grapheme: parkings(2), phonemes: [p, ah, r, k, ih, ng, z]}
 - {grapheme: parlaient(2), phonemes: [p, ah, r, l, ae, t]}
 - {grapheme: parlais(2), phonemes: [p, ah, r, l, ae, z]}
@@ -42429,7 +42421,6 @@ entries:
 - {grapheme: pucelle(2), phonemes: [p, uh, s, ae, l, ee]}
 - {grapheme: puces(2), phonemes: [p, uh, s, ee]}
 - {grapheme: puces(3), phonemes: [p, uh, s, ee, z]}
-- {grapheme: puddings, phonemes: [p, ou, d, ih, ng]}
 - {grapheme: puddings(2), phonemes: [p, ou, d, ih, ng, z]}
 - {grapheme: pudeurs(2), phonemes: [p, uh, d, oe, r, z]}
 - {grapheme: pudique(2), phonemes: [p, uh, d, ih, k, ee]}
@@ -48568,7 +48559,6 @@ entries:
 - {grapheme: senlis, phonemes: [s, en, l, ih, s]}
 - {grapheme: senoner, phonemes: [s, eh, n, oh, n, ae, r]}
 - {grapheme: sens, phonemes: [s, en, s]}
-- {grapheme: sens(2), phonemes: [s, en]}
 - {grapheme: sens(3), phonemes: [s, en, z]}
 - {grapheme: sensationnalisme(2), phonemes: [s, en, s, ah, s, y, oo, n, ah, l, ih, s, m, ee]}
 - {grapheme: sensationnelles(2), phonemes: [s, en, s, ah, s, y, oo, n, ae, l, ee]}
@@ -54942,7 +54932,6 @@ entries:
 - {grapheme: vigoureux(2), phonemes: [v, ih, g, ou, r, ee, z]}
 - {grapheme: vigouroux, phonemes: [v, ih, g, ou, r, ou]}
 - {grapheme: viguier, phonemes: [v, ih, g, y, eh]}
-- {grapheme: vikings, phonemes: [v, ih, k, ih, ng]}
 - {grapheme: vikings(2), phonemes: [v, ih, k, ih, ng, z]}
 - {grapheme: vikings(3), phonemes: [v, ih, k, ih, ng]}
 - {grapheme: viktor, phonemes: [v, ih, k, t, oo, r]}
